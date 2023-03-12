@@ -2,6 +2,8 @@
 [![Build Status](https://github.com/john-science/mazelib/actions/workflows/unittests.yaml/badge.svg?branch=main)](https://github.com/john-science/mazelib/blob/main/.github/workflows/unittests.yaml)
 [![codecov](https://codecov.io/gh/john-science/mazelib/branch/main/graph/badge.svg)](https://codecov.io/gh/john-science/mazelib)
 
+Modified to have less strict dependency versions.
+
 #### A Python API for creating and solving mazes.
 
 ## [The mazelib API](https://github.com/john-science/mazelib/blob/main/docs/API.md)
