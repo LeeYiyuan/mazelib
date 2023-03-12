@@ -78,9 +78,9 @@ else:
 # perform the actual build/install
 setup(
     cmdclass=cmdclass,
-    name="mazelib",
+    name="mazelib-alt",
     version=__version__,
-    description="A Python API for creating and solving mazes.",
+    description="A Python API for creating and solving mazes. Modified to have less strict dependency versions.",
     url="https://github.com/john-science/mazelib",
     keywords="game mathematics algorithms maze mazes math games algorithm",
     author="John Stilley",
